@@ -17,10 +17,10 @@ Tadi emang dia bangsa amplitudo dari formasinya ini yang besar naik dengan landa
 
 <p> <strong>Pendulum gravitasi sederhana</strong> Animasi pendulum yang menunjukkan vektor kecepatan dan percepatan. Sebuah bandul gravitasi sederhana adalah model matematika yang ideal dari sebuah pendulum nyata. Ini adalah beban (atau bob) di ujung kabel tanpa massa yang digantung dari poros, tanpa gesekan. Karena dalam model ini tidak ada kehilangan energi gesekan, ketika diberi perpindahan awal, ia akan berayun bolak-balik pada amplitudo konstan. Model tersebut didasarkan pada asumsi-asumsi ini.
   Batang atau kabel tempat ayunan bob tidak bermassa, tidak dapat dipisahkan, dan selalu kencang; <br>
-      •	Bob adalah massa titik
-      •	Gerakan hanya terjadi dalam dua dimensi, yaitu bob tidak menelusuri elips tetapi busur.
-      •	Gerakan tidak kehilangan energi untuk gesekan atau hambatan udara.
-      •	Medan gravitasi seragam.
-      •	Dukungan tidak bergerak.
+      •	Bob adalah massa titik <br>
+      •	Gerakan hanya terjadi dalam dua dimensi, yaitu bob tidak menelusuri elips tetapi busur.<br>
+      •	Gerakan tidak kehilangan energi untuk gesekan atau hambatan udara.<br>
+      •	Medan gravitasi seragam.<br>
+      •	Dukungan tidak bergerak.<br>
       •	Persamaan diferensial yang merepresentasikan gerak bandul sederhana</p>
       
