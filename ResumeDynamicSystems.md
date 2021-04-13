@@ -26,5 +26,8 @@
       •	Gerakan hanya terjadi dalam dua dimensi, yaitu bob tidak menelusuri elips tetapi busur.<br>
       •	Gerakan tidak kehilangan energi untuk gesekan atau hambatan udara.<br>
       •	Medan gravitasi seragam.<br>
-      •	Dukungan tidak bergerak.</p>
+      •	Dukungan tidak bergerak.<br>
+
+![image](https://user-images.githubusercontent.com/81843791/114597158-a752be80-9cba-11eb-99a3-198e36067741.png)
+</p>
       
