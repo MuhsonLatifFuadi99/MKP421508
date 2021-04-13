@@ -29,5 +29,6 @@
       •	Dukungan tidak bergerak.<br>
 
 ![image](https://user-images.githubusercontent.com/81843791/114597158-a752be80-9cba-11eb-99a3-198e36067741.png)
+
 </p>
       
