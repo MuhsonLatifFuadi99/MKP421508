@@ -5,7 +5,7 @@
 <h2>Prodi : Teknologi Informasi</h2>
 <h2>Matkul : MKP421508 Jaringan Enterprise & Sensor Nirkabel</h2>
 
-<h2>TUGAS Resume dari Dynamic System and its Applications</h2>
+<h3>TUGAS Resume dari Dynamic System and its Applications</h3>
 
 <p> Dynamic System adalah konsep dalam matematika di mana aturan tetap menggambarkan ketergantungan waktu suatu titik dalam ruang geometris. Contohnya termasuk model matematika yang menggambarkan ayunan pendulum jam, aliran air dalam pipa, dan jumlah ikan setiap musim semi di sebuah danau. Pada waktu tertentu, sistem dinamika memiliki keadaan yang diberikan oleh sekumpulan bilangan real (vektor) yang dapat diwakili oleh titik dalam ruang keadaan yang sesuai (lipatan geometris). Perubahan kecil dalam status sistem membuat perubahan kecil dalam angka. Aturan evolusi dari sistem dinamis adalah aturan tetap yang menjelaskan apa yang mengikuti keadaan masa depan dari keadaan saat ini. Aturannya deterministik; dengan kata lain, untuk interval waktu tertentu, hanya satu kondisi masa depan yang mengikuti dari kondisi saat ini.</p>
 
