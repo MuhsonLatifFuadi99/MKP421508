@@ -1,9 +1,9 @@
 # MKP421508
 
-<h2>Nama : Muhson Latif Fuadi</h2>
-<h2>NIM : 1821500028</h2>
-<h2>Prodi : Teknologi Informasi</h2>
-<h2>Matkul : MKP421508 Jaringan Enterprise & Sensor Nirkabel</h2>
+<h2>Nama    : Muhson Latif Fuadi</h2>
+<h2>NIM     : 1821500028</h2>
+<h2>Prodi   : Teknologi Informasi</h2>
+<h2>Matkul  : MKP421508 Jaringan Enterprise & Sensor Nirkabel</h2>
 
 <h3>TUGAS Resume dari Dynamic System and its Applications</h3>
 
