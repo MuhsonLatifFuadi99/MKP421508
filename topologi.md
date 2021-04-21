@@ -1,6 +1,6 @@
 # MKP421508
 
-![Screenshot (1)](https://user-images.githubusercontent.com/81843791/115598953-30927280-a305-11eb-812a-89a475b375a0.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/81843791/115600325-cb3f8100-a306-11eb-9263-465f2369d9af.png)
 
 ![Screenshot(2)](https://user-images.githubusercontent.com/81843791/115598978-36885380-a305-11eb-9e51-b0a5f0191b89.png)
 
